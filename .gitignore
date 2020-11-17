@@ -1,0 +1,13 @@
+# Something will ignore on this project
+# Folders
+.idea
+out
+
+# Files
+.DS_Store
+*.class
+WakeOnLan.iml
+deviceRecord.txt
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
